@@ -1,7 +1,9 @@
 SparkX Air Quality Sensor - SGP40 (Qwiic)
 ========================================
 
-![SparkX Air Quality Sensor - SGP40]()
+![SparkX Air Quality Sensor - SGP40](./img/Top.png)
+![SparkX Air Quality Sensor - SGP40](./img/Bottom.png)
+![SparkX Air Quality Sensor - SGP40](./img/Dimensions.png)
 
 [*SparkX Air Quality Sensor - SGP40 (Qwiic) (SPX-nnnnn)*](https://www.sparkfun.com/products/nnnnn)
 
