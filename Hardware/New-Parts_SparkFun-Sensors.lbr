@@ -237,7 +237,7 @@ ventilation systems.</description>
 <technologies>
 <technology name="">
 <attribute name="DIGIKEY_PART" value="1649-SGP40-D-R4CT-ND" constant="no"/>
-<attribute name="PROD_ID" value="" constant="no"/>
+<attribute name="PROD_ID" value="IC-15580" constant="no"/>
 <attribute name="VALUE" value="SGP40" constant="no"/>
 </technology>
 </technologies>
