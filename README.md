@@ -27,7 +27,7 @@ Documentation
 
 Product Versions
 ----------------
-* [SPX-nnnnn](https://www.sparkfun.com/products/nnnnn) - Original SparkX Release.
+* [SPX-17729](https://www.sparkfun.com/products/17729) - Original SparkX Release.
 
 License Information
 -------------------
