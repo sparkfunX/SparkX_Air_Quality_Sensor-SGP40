@@ -1,11 +1,11 @@
 SparkX Air Quality Sensor - SGP40 (Qwiic)
 ========================================
 
-![SparkX Air Quality Sensor - SGP40](./img/Top.png)
-![SparkX Air Quality Sensor - SGP40](./img/Bottom.png)
-![SparkX Air Quality Sensor - SGP40](./img/Dimensions.png)
+[![SparkX SGP40 Breakout (Qwiic) (SPX-17729)](https://cdn.sparkfun.com//assets/parts/1/6/8/4/5/17729-SGP40_Air_Quality_Sensor-01.jpg)](https://www.sparkfun.com/products/17729)
 
 [*SparkX Air Quality Sensor - SGP40 (Qwiic) (SPX-17729)*](https://www.sparkfun.com/products/17729)
+
+![SparkX Air Quality Sensor - SGP40](./img/Dimensions.png)
 
 The SGP40 is a digital gas sensor designed for easy integration into air purifiers or demand-controlled ventilation systems.
 Sensirion’s CMOSens® technology offers a complete, easy to use sensor system on a single chip featuring a digital
