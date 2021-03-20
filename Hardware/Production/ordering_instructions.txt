@@ -8,4 +8,4 @@ finish, HASL lead free
 stencils, top
 pcs per panel, 36
 min trace width, 0.3048mm / 0.0120in
-min drill size, 0.2997mm / 0.0118in
+min drill size, 0.3000mm / 0.0118in
